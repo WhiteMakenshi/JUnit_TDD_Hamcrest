@@ -1,6 +1,7 @@
-## Descripción del Proyecto: Auth
+## Descripción del Proyecto: JUnit TDD Hamcrest
 
-Este es un proyecto de aplicación para Android llamado **Auth**. Su propósito principal es gestionar la autenticación de usuarios. La aplicación está desarrollada utilizando Kotlin y sigue las prácticas modernas de desarrollo de Android.
+Este es un proyecto de aplicación para Android llamado **Auth**. Su propósito principal es el uso practico de Hamcrest en la autenticación de usuarios, ficticia. 
+La aplicación está desarrollada utilizando Kotlin y sigue las prácticas modernas de desarrollo de Android.
 
 ### Estructura del Proyecto
 
@@ -42,3 +43,4 @@ La `MainActivity` gestiona la lógica de la interfaz de usuario para la autentic
     -   `androidx.appcompat:appcompat`
     -   `com.google.android.material:material`
     -   `androidx.constraintlayout:constraintlayout`
+    -   `org.hamcrest:hamcrest`
