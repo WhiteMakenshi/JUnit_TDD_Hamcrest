@@ -1,5 +1,4 @@
-<img width="128" height="285" alt="Screenshot_20260209_174626" src="https://github.com/user-attachments/assets/076b98c5-0b97-427b-ae9b-840b9a24b5ea" />
-
+<img width="320" height="714" alt="Screenshot_20260209_175404" src="https://github.com/user-attachments/assets/7cafee78-6772-43b8-a4c9-7da63cd6c616" />
 
 ## Descripción del Proyecto: JUnit TDD Hamcrest
 
